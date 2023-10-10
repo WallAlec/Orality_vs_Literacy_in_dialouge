@@ -1,2 +1,2 @@
-# info190_final
-Exploring Spoken and Written Language through Computational Analysis
+
+# Exploring Spoken and Written Language through Computational Analysis
